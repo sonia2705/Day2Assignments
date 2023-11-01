@@ -1,0 +1,14 @@
+D:\training content\csharptraining\Assign_Inheritence\bin\Debug\net6.0\Assign_Inheritence.exe
+D:\training content\csharptraining\Assign_Inheritence\bin\Debug\net6.0\Assign_Inheritence.deps.json
+D:\training content\csharptraining\Assign_Inheritence\bin\Debug\net6.0\Assign_Inheritence.runtimeconfig.json
+D:\training content\csharptraining\Assign_Inheritence\bin\Debug\net6.0\Assign_Inheritence.dll
+D:\training content\csharptraining\Assign_Inheritence\bin\Debug\net6.0\Assign_Inheritence.pdb
+D:\training content\csharptraining\Assign_Inheritence\obj\Debug\net6.0\Assign_Inheritence.GeneratedMSBuildEditorConfig.editorconfig
+D:\training content\csharptraining\Assign_Inheritence\obj\Debug\net6.0\Assign_Inheritence.AssemblyInfoInputs.cache
+D:\training content\csharptraining\Assign_Inheritence\obj\Debug\net6.0\Assign_Inheritence.AssemblyInfo.cs
+D:\training content\csharptraining\Assign_Inheritence\obj\Debug\net6.0\Assign_Inheritence.csproj.CoreCompileInputs.cache
+D:\training content\csharptraining\Assign_Inheritence\obj\Debug\net6.0\Assign_Inheritence.dll
+D:\training content\csharptraining\Assign_Inheritence\obj\Debug\net6.0\refint\Assign_Inheritence.dll
+D:\training content\csharptraining\Assign_Inheritence\obj\Debug\net6.0\Assign_Inheritence.pdb
+D:\training content\csharptraining\Assign_Inheritence\obj\Debug\net6.0\Assign_Inheritence.genruntimeconfig.cache
+D:\training content\csharptraining\Assign_Inheritence\obj\Debug\net6.0\ref\Assign_Inheritence.dll
